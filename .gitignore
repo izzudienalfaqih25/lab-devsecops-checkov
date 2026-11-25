@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.sarif
+*.log
+scan-*.json
+hasil-*.json
+k8s-*.json
+docker-*.json
+custom-*.json
